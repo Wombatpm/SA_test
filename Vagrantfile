@@ -18,7 +18,7 @@ Vagrant.configure(2) do |config|
   # Create a public network so we can access the server from other devices
   # on our network.
   # config.vm.network "public_network", type: "dhcp"
-  config.vm.network "private_network", ip: "192.168.33.10"
+  config.vm.network "private_network", ip: "192.168.33.50"
   # Configure our server to use "Salt"
   config.vm.provision :salt do |salt|
  
