@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"mount_options":["dmode=777","fmode=777"],"guestpath":"/var/www","hostpath":"/Users/brucebromberek/git/SA","disabled":false,"__vagrantfile":true},"/srv/salt":{"guestpath":"/srv/salt","hostpath":"/Users/brucebromberek/git/SA/salt","disabled":false,"__vagrantfile":true}}}
